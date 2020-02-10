@@ -8,4 +8,5 @@ Gene expression profiling can also be used to more accurately classify tumors an
 
 we will work with a gene expression dataset of Pancreatic Adenocarcinoma. Pancreatic Adenocarcinoma (PAAD) is the third most common cause of death from cancer, with an overall 5-year survival rate of less than 5%, and is predicted to become the second leading cause of cancer mortality in the United States by 2030.
 
+### PCA performed on the samples for behviour analysis
 ![ Gene Behaviour PCA ](pca.jpg)
